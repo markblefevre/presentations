@@ -170,7 +170,7 @@ def plot_prices_on_dual_y_axis(etfs, prices):
 if __name__ == "__main__":
     # Choose the ETF symbols to work with along with 
     # start and end dates for the price histories
-    etfs = ['QQQ', 'AAPL']
+    etfs = ['7201.T', '7203.T']
     start_date = "2019-01-01"
     end_date = "2024-12-31"    
     
